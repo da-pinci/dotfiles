@@ -1,0 +1,30 @@
+[env]
+ENV_NAME = "dev"
+
+[tools]
+# Backend
+java = "openjdk"
+go = "latest"
+node = "lts"
+rust = "latest"
+
+# Infra
+terraform = "latest"
+
+# Tools
+jq = "latest"
+k6 = "latest"
+gh = "latest"
+ghq = "latest"
+podman = "latest"
+eza = "latest"
+chezmoi = "latest"
+
+# cli
+
+#############################################
+## Tasks
+#############################################
+[tasks.edit-mise-g-config]
+description = "edit mise global config file"
+run = 'idea ~/.config/mise/config.toml'
