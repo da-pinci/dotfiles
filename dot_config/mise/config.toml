@@ -12,6 +12,7 @@ rust = "latest"
 terraform = "latest"
 
 # Tools
+starship = "latest"
 jq = "latest"
 k6 = "latest"
 gh = "latest"
