@@ -12,16 +12,18 @@ rust = "latest"
 terraform = "latest"
 
 # Tools
-starship = "latest"
 jq = "latest"
 k6 = "latest"
 gh = "latest"
 ghq = "latest"
 podman = "latest"
+
+## Termianl shell
+starship = "latest"
+
+## CLI
 eza = "latest"
 chezmoi = "latest"
-
-# cli
 
 #############################################
 ## Tasks
