@@ -25,6 +25,8 @@ starship = "latest"
 eza = "latest"
 chezmoi = "latest"
 ripgrep = "latest"
+atuin = "latest"
+zoxide = "latest"
 
 #############################################
 ## Tasks
