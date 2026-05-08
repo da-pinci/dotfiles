@@ -27,6 +27,7 @@ chezmoi = "latest"
 ripgrep = "latest"
 atuin = "latest"
 zoxide = "latest"
+fzf = "latest"
 
 #############################################
 ## Tasks
